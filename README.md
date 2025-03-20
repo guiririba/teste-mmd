@@ -21,13 +21,13 @@ local whitelist = {
 
 local player = game.Players.LocalPlayer
 if not whitelist[player.UserId] then
-    player:Kick("tu nao ta na whitelist ne buti")
+    player:Kick("não está selecionada na whit list buti")
     return
 end
 
 local Luna = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nebula-Softworks/Luna-Interface-Suite/refs/heads/main/source.lua", true))()
 local Window = Luna:CreateWindow({
-    Name = "MMD Auto Peças - Version 1.2", 
+    Name = "guiba Auto Peças - Version 1.2", 
     Subtitle = "Feito por carplacer", 
     LogoID = "82795327169782", 
     LoadingEnabled = true, 
