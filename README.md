@@ -1,7 +1,7 @@
 local whitelist = {
-    [1771624248] = true,  --izahel7835
-    [6157160586] = true,  -- 
-    [1352633098] = true,  -- 
+    [1771624248] = true,  --izahel783
+    [1181393498] = true,  --cholito21356
+    [2854020171] = true,  --PIMENTAxit7
     [7120096478] = true,  -- 
     [3338710964] = true,  -- 
     [3165143178] = true,  -- 
