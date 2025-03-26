@@ -1,5 +1,5 @@
 local whitelist = {
-    [3517938625] = true,  --mikael_rjbrasil
+    [5772202348] = true,  --drozga6i
     [1181393498] = true,  --cholito21356
     [2854020171] = true,  --PIMENTAxit7
     [3165143178] = true,  -- 
